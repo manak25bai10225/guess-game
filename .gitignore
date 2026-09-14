@@ -1,1 +1,15 @@
+# Java compiled files
+*.class
 
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Maven
+target/
