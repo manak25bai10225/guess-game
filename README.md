@@ -32,4 +32,4 @@ number-guessing-game/
 │   └── Main.java
 ├── .gitignore
 ├── README.md
-└── LICENSE
+
