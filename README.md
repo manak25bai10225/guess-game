@@ -12,6 +12,7 @@ Attempt counter
 Score feedback
 Play again option
 Beginner-friendly Java code
+
 🛠️ Technologies Used
 Java
 Java Scanner
@@ -19,6 +20,7 @@ Java Random
 Loops
 Conditional Statements
 Methods
+
 📁 Project Structure
 text
 number-guessing-game/
