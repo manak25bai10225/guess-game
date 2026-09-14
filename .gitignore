@@ -1,7 +1,7 @@
-# Java compiled files
+# Java compled files
 *.class
 
-# IntelliJ IDEA
+# IntlliJ IDEA
 .idea/
 *.iml
 
